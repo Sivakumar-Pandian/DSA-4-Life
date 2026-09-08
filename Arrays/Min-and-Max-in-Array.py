@@ -13,7 +13,7 @@ Input: arr[] = [12, 3, 15, 7, 9]
 Output: [3, 15]
 Explanation: minimum and maximum element of array are 3 and 15.
 
-
+link = https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
 """
 
 
